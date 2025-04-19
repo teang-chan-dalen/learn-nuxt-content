@@ -35,7 +35,7 @@ export default defineAppConfig({
   },
   footer: {
     credits: `Copyright © ${new Date().getFullYear()}`,
-    colorMode: false,
+    colorMode: true,
     links: [{
       'icon': 'i-simple-icons-nuxtdotjs',
       'to': 'https://nuxt.com',
